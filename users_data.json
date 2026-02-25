@@ -2,17 +2,17 @@
   {
     "id": 1,
     "username": "kd",
-    "email": "3538793369@qq.com",
+    "email": "3*********@qq.com",
     "full_name": "孔棣",
-    "phone": "15371340259",
+    "phone": "1**********",
     "is_active": true
   },
   {
     "id": 2,
     "username": "yyj",
-    "email": "3600762184@qq.com",
+    "email": "3*********@qq.com",
     "full_name": "于佑君",
-    "phone": "15241573708",
+    "phone": "1**********",
     "is_active": true
   }
 ]
